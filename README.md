@@ -1,3 +1,20 @@
+![Super quiz](https://user-images.githubusercontent.com/11633823/131097717-6a993390-9e4d-43e2-9b89-105401c2d80c.PNG)
+
+
+
+
+
+
+A simple Quiz app built using React, Typescript,trivia API ( Open trivia DB) 
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
